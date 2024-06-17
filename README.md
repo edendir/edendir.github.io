@@ -64,6 +64,7 @@ University of Wisconsin – Eau Claire, 2014
 
 - **Fiftyville:** [GitHub Link](https://github.com/edendir/cs50_fiftyville)
 - **Finance:** [GitHub Link](https://github.com/edendir/cs50_finance)
+- **Progressive Overload:** [GitHub Link](https://github.com/edendir/cs50_final_project)
 
 ---
 
