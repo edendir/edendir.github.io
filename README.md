@@ -20,6 +20,21 @@ I am a dedicated business technology professional with extensive experience over
 
 ---
 
+**Projects:**
+
+- **Fiftyville:** [GitHub Link](https://github.com/edendir/cs50_fiftyville)
+- **Finance:** [GitHub Link](https://github.com/edendir/cs50_finance)
+- **Progressive Overload:** [GitHub Link](https://github.com/edendir/cs50_final_project)
+
+---
+
+**Certifications:**
+
+- **Google IT Automation with Python:** Coursera
+- **CS50 (Harvard Online):** Computer Science Fundamentals
+
+---
+
 **Professional Experience:**
 
 **Wells Fargo – St. Louis Park, MN**  
@@ -50,21 +65,6 @@ I am a dedicated business technology professional with extensive experience over
 **Bachelor of Business Administration**  
 *Major: Management Information Systems*  
 University of Wisconsin – Eau Claire, 2014
-
----
-
-**Certifications:**
-
-- **Google IT Automation with Python:** Coursera
-- **CS50 (Harvard Online):** Computer Science Fundamentals
-
----
-
-**Projects:**
-
-- **Fiftyville:** [GitHub Link](https://github.com/edendir/cs50_fiftyville)
-- **Finance:** [GitHub Link](https://github.com/edendir/cs50_finance)
-- **Progressive Overload:** [GitHub Link](https://github.com/edendir/cs50_final_project)
 
 ---
 
