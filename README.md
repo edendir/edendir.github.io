@@ -14,7 +14,7 @@ I am a dedicated business technology professional with extensive experience over
 **Skills:**
 
 - **Languages:** Python, SQL, C#, JavaScript, HTML, CSS
-- **Technologies:** Drools rule engine, Jenkins, UrbanCode Deploy, AnthillPro
+- **Technologies:** Drools rule engine, VS Code, Visual Studio
 - **Methodologies:** Agile, Waterfall, SDLC, Unit Testing, Regression Testing
 - **Areas of Expertise:** Software Development Process, Database Management, Project Lifecycle Management, System Implementation, Micro-services, Cross-functional Collaboration
 
