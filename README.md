@@ -30,6 +30,7 @@ I am a dedicated business technology professional with extensive experience over
 
 **Certifications:**
 
+- **Associate Google Cloud Engineer:** Google
 - **Google IT Automation with Python:** Coursera
 - **CS50 (Harvard Online):** Computer Science Fundamentals
 
