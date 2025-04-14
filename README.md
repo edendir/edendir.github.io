@@ -38,9 +38,16 @@ I am a dedicated business technology professional with extensive experience over
 
 **Professional Experience:**
 
+**SAG Corporation – Alexandria, VA**  
+*Senior Analyst*  
+*2024-2025*  
+- Established Epic level requirements for the VA's Loan Guaranty Program.
+- Developed a multi-year roadmap for LGY Modernization.
+- Established best parctice timelines and engagement strategy for Lean Business Case development.
+  
 **Wells Fargo – St. Louis Park, MN**  
 *Senior Business Rules Analyst / Business Systems Consultant*  
-*2020 – Present, 2015 – 2017*  
+*2020 – 2024, 2015 – 2017*  
 - Established and maintained Drools rules engines for various projects.
 - Enhanced routing rules services for mortgage rates and fees.
 - Implemented Waterfall and Agile methodologies across projects.
