@@ -22,6 +22,7 @@ I am a dedicated business technology professional with extensive experience over
 
 **Projects:**
 
+- **uGit:** [GitHub_Link](https://github.com/edendir/diy_git)
 - **Fiftyville:** [GitHub Link](https://github.com/edendir/cs50_fiftyville)
 - **Finance:** [GitHub Link](https://github.com/edendir/cs50_finance)
 - **Progressive Overload:** [GitHub Link](https://github.com/edendir/cs50_final_project)
