@@ -14,15 +14,16 @@ I am a dedicated business technology professional with extensive experience over
 **Skills:**
 
 - **Languages:** Python, SQL, C#, JavaScript, HTML, CSS
-- **Technologies:** Drools rule engine, VS Code, Google Cloud Platform (GCP)
-- **Methodologies:** Agile, Waterfall, SDLC, Unit Testing, Regression Testing
+- **Tools:** Drools rule engine, VS Code, Google Cloud Platform (GCP)
+- **Methodologies:** Agile, Waterfall, DevOps(CI/CD)
 - **Areas of Expertise:** Software Development Process, Database Management, Project Lifecycle Management, System Implementation, Micro-services, Cross-functional Collaboration
 
 ---
 
 **Projects:**
 
-- **uGit:** [GitHub_Link](https://github.com/edendir/diy_git)
+- **The Gent's Edit:** [GitHub_Link](https://github.com/edendir/gent's_edit)
+- **Running Analysis:** [GitHub_Link](https://github.com/edendir/running_analysis)
 - **Fiftyville:** [GitHub Link](https://github.com/edendir/cs50_fiftyville)
 - **Finance:** [GitHub Link](https://github.com/edendir/cs50_finance)
 - **Progressive Overload:** [GitHub Link](https://github.com/edendir/cs50_final_project)
